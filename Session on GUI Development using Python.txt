@@ -1,0 +1,5 @@
+Code: https://github.com/campusx-official/nlpapp/tree/master
+
+Komprehend have stopped giving free services so you need to use some there alternative.
+You can search on rapidapi site for free alternatives https://rapidapi.com/twinword/api/sentiment-analysis
+
